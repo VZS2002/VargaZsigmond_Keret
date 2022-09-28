@@ -1,11 +1,39 @@
 body {
-    background-color: lightblue;
+    background-color: wheat;
     font-weight: bold;
     font-size: large;
     text-align: center;
     padding: 20px;
+    
+}
+.dark-mode{
+    background-color: rgb(51, 51, 51);
+    color: white;
 }
 .kep{
     margin-top: 100px;
     
 }
+footer{
+    margin-top: 100px;
+    font-weight: normal;
+}
+
+button{
+    background-color: rgb(49, 49, 49);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    font-size: small;
+}
+button:hover{
+    background-color: rgb(78, 78, 78);
+}
+
+button:active{
+background-color: gray;
+}
+
+input{
+    border-radius: 10px;
+}
+
