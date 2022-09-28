@@ -37,3 +37,6 @@ input{
     border-radius: 10px;
 }
 
+.szinval{
+    border-radius: 0;
+}
